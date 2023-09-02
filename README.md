@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jarrydgoss
-- 👀 I’m interested in Data.
-- 🌱 I’m currently learning Google Data Analytics through Coursera.
-- 💞️ I’m looking to collaborate on a whole bunch of different datasets to solve everyday problems that people face and hopefully one day major worldly problems.
+- 👋 Hi, I’m Jarryd
+- 👀 I’m interested in all things Data and Software Engineering
+- 💞️ I’m looking to collab on a whole bunch of different datasets to solve everyday problems that people face and hopefully one day major worldly problems.
 - 📫 How to reach me ...
 https://www.kaggle.com/jarrydgoss/datasets
 https://www.linkedin.com/in/jarryd-goss-707620117/
