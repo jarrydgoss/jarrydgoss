@@ -1,4 +1,5 @@
-![image](https://github.com/jarrydgoss/jarrydgoss/assets/83253712/8a3ee83c-e4bb-48dd-b09f-b414459ee7dd)
+![image](https://github.com/jarrydgoss/jarrydgoss/assets/83253712/55c6b883-641a-4bea-883e-b5dcb1d9f2e7)
+
 
 
 - 👋 Hi, I’m Jarryd
