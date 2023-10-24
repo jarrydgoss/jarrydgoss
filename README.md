@@ -1,3 +1,6 @@
+![image](https://github.com/jarrydgoss/jarrydgoss/assets/83253712/8a3ee83c-e4bb-48dd-b09f-b414459ee7dd)
+
+
 - 👋 Hi, I’m Jarryd
 - 👀 I’m interested in all things Data and Software Engineering
 - 💞️ I’m looking to collab on a whole bunch of different datasets to solve everyday problems that people face and hopefully one day major worldly problems.
