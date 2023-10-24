@@ -5,8 +5,7 @@
 
 ## I'm Jarryd, your friendly neighbourhood Data Professional 📈 
 
-- I’m interested in all things Data and Software Engineering
-- Looking to collab on a whole bunch of different datasets to solve everyday problems that people face and hopefully one day major worldly problems.
+I'm passionate about Data Analytics, particularly on the Engineering side of things and the satisfaction that comes from building functional Data Products that empower and enable businesses/organizations to truly harness the power of their data and make better data-driven decisions. 
   
 ## You can find me on Linkedin 
 https://www.linkedin.com/in/jarryd-goss-707620117/
