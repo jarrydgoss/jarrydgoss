@@ -7,5 +7,5 @@
 
 I'm passionate about Data Analytics, particularly on the Engineering side of things.
 
-I love the satisfaction that comes from building ETL Pipelines and Data Products that empower and enable businesses/organizations to truly harness the power of their data and make better data-driven decisions. 
+I love the satisfaction that comes from building Data Solutions that empower and enable businesses/organizations to truly harness the power of their data and make better data-driven decisions. 
 
