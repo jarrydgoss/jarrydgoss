@@ -1,7 +1,11 @@
 ![image](https://github.com/jarrydgoss/jarrydgoss/assets/83253712/55c6b883-641a-4bea-883e-b5dcb1d9f2e7)
 
 
-# Howdy, I'm Jarryd your friendly neighbourhood Data Professional and welcome to my Portfolio
+# Howdy👋 
+
+## I'm Jarryd your friendly neighbourhood Data Professional 📈
+
+### Welcome to my Portfolio 
 
 - 👀 I’m interested in all things Data and Software Engineering
 - 💞️ I’m looking to collab on a whole bunch of different datasets to solve everyday problems that people face and hopefully one day major worldly problems.
