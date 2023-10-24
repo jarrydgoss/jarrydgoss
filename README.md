@@ -3,16 +3,10 @@
 
 # Howdy and Welcome 👋 
 
-## I'm Jarryd your friendly neighbourhood Data Professional 📈 
+## I'm Jarryd, your friendly neighbourhood Data Professional 📈 
 
-- 👀 I’m interested in all things Data and Software Engineering
-- 💞️ I’m looking to collab on a whole bunch of different datasets to solve everyday problems that people face and hopefully one day major worldly problems.
-- 📫 How to reach me ...
+- I’m interested in all things Data and Software Engineering
+- Looking to collab on a whole bunch of different datasets to solve everyday problems that people face and hopefully one day major worldly problems.
   
-https://www.kaggle.com/jarrydgoss/datasets
-
+## You can find me on Linkedin 
 https://www.linkedin.com/in/jarryd-goss-707620117/
-<!---
-jarrydgoss/jarrydgoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
