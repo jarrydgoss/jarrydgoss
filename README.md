@@ -7,5 +7,5 @@
 
 I'm passionate about Data Analytics, especially the Engineering side of things.
 
-There's something incredibly satisfying about creating Data Solutions that empower businesses and people to use their data effectively. I love helping others unlock the true potential of their data, turning it into insights that drive smart decisions. It's not just a job for me, it's a passion.
+There's something incredibly satisfying about creating Data Solutions that empower businesses and people to use their data effectively. I love helping others unlock the true potential of their data, turning it into insights that drive smart decisions. It's not just a job for me, it's a passion 😉
 
