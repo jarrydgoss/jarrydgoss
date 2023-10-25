@@ -5,7 +5,7 @@
 
 ## I'm Jarryd, your friendly neighbourhood Data Professional 📈 
 
-I'm passionate about Data Analytics, particularly on the Engineering side of things.
+I'm passionate about Data Analytics, especially the Engineering side of things.
 
-I love the satisfaction that comes from building Data Solutions that empower and enable businesses/organizations to truly harness the power of their data and make better data-driven decisions. 
+There's something incredibly satisfying about creating Data Solutions that empower businesses and people to use their data effectively. I love helping others unlock the true potential of their data, turning it into insights that drive smart decisions. It's not just a job for me, it's a passion.
 
