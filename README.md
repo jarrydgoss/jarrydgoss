@@ -2,7 +2,7 @@
 
 # Howdy and Welcome 👋 
 
-## Yooo, it's your boy J, a.k.a The Data Guy! 
+## Yooo, it's your boy J, a.k.a The Data Guy! 👨🏻‍💻
 
 I'm passionate about all things Data Analytics, with a particular focus on Data Engineering. 
 
